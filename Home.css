@@ -1,0 +1,68 @@
+.text-head{
+    font-size: 20px;
+    font-family: Harlow Solid Italic;
+    font-weight: 700;
+    text-shadow: 1px 3px 4px black;
+    color: white;
+}
+.card-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #E8EAED;
+    text-shadow: 2px 3px 1px black;
+}
+.vehicle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #E8EAED;
+    text-shadow: 1px 2px 2px black;
+    letter-spacing: 2px;
+}
+.value{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #E8EAED;
+    text-shadow: 1px 2px 2px  black;
+}
+.counter-table{
+    height: 40vh;
+    /* background-color: grey; */
+    overflow: auto;
+}
+::-webkit-scrollbar{
+    width: 10px !important;
+    background-color: #E8EAED;
+    /* border-left-style: dotted; */
+    border-radius: 2px 20px 6px;
+    border-bottom: 6px solid gray;
+    border-top: 6px solid grey;
+    /* border:2px solid black; */
+    border-bottom-width: 20px;
+    
+}
+.total-v{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #E8EAED;
+    text-shadow: 1px 2px 2px black;
+}
+.t-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #E8EAED;
+    text-shadow: 1px 2px 2px  black;
+    letter-spacing: 2.3px;
+}
+.addv-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #E8EAED;
+    text-shadow: 1px 2px 2px black;
+    letter-spacing: 5px;
+}

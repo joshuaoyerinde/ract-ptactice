@@ -1,0 +1,90 @@
+.input{
+    box-shadow: none !important;
+    /* border:2px black !important; */
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0% !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border: black !important; */
+}
+.input:focus{
+    border-bottom: 3px solid darkblue;
+}
+.user-btn{
+    border: none;
+    box-shadow: none !important;
+    background-color: darkblue;
+    color: white;
+    box-shadow: 2px 2px 2px darkblue !important;
+      /* -moz-box-shadow: 10px  5px blue !important; */
+      -webkit-box-shadow: 2px 2px 2px darkblue !important;
+     
+    /* box-shadow:; */
+}
+.user-btn:hover{
+    color: white;
+}
+
+/* for the view of details....... */
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 250px;
+    transition: all ease-in-out 0.5s;
+    z-index: 9997;
+    transition: all 0.5s;
+    padding: 0 15px;
+    background: rgba(255, 255, 255, 0.678);
+    overflow-y: auto;
+    border-left-style: groove;
+    /* border-right: 3px solid darkblue; */
+    box-shadow: 3px 3.1px 0px rgba(0, 0, 139, 0.938) !important;
+      -moz-box-shadow: 10px 3px 5px blue !important;
+      -webkit-box-shadow: 4px 2px 2px darkblue !important;
+}
+.dark-blue{
+    color: darkblue;
+}
+/* home comp */
+.home-link{
+    text-decoration: none !important;
+    color: darkblue;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home-link:hover{
+    font-weight: 600;
+    color: darkblue;
+    cursor: pointer;
+}
+.home-input{
+    box-shadow: none !important;
+    /* border:2px black !important; */
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0% !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home-input:focus{
+    border-bottom: 3px solid darkblue;
+}
+    /* .inside-header{
+        width: 150px;
+        height: 85vh;
+        overflow-y: auto;
+    } */
+/* ::-webkit-scrollbar{
+    width: 10px !important;
+    overflow-y: auto;
+    background-color: darkblue;
+    scrollbar-3dlight-color: black; */
+    /* border-left-style: dotted; */
+    /* border-radius: 2px 20px 6px; */
+    /* border-bottom: 6px solid gray; */
+    /* border-top: 6px solid grey; */
+    /* border:2px solid black; */
+    /* border-bottom-width: 20px; */
+    
+/* } */

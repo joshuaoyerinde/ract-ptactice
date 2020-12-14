@@ -1,0 +1,18 @@
+.buy-title{
+    font-size: 24px;
+}
+.msg{
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #414754;
+    /* color: white; */
+}
+.view-title{
+    font-size: 28px;
+    color: rgba(128, 128, 128, 0.932);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.918);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .bg-box{
+    background-color:  white;
+} */
